@@ -37,13 +37,6 @@ const stats: Stat[] = [
     source: "Industry research",
   },
   {
-    value: "+22%",
-    title: "Smarter water use",
-    detail:
-      "Farmers implementing drones report water management efficiency improvements of nearly 22%.",
-    source: "Industry research",
-  },
-  {
     value: "+15%",
     title: "Better batteries",
     detail:
